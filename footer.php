@@ -9,6 +9,7 @@ foreach ($result as $row) {
     $contact_phone = $row['contact_phone'];
     $contact_address = $row['contact_address'];
     $footer_copyright = $row['footer_copyright'];
+    $before_body = $row['before_body'];
 }
 ?>
 
@@ -38,10 +39,10 @@ foreach ($result as $row) {
                 $result = $query->fetchAll(PDO::FETCH_ASSOC);
                 foreach ($result as $row) {
                 ?>
-                    <?php if ($row['social_url'] != ''): ?>
-                        <li><a href="<?php echo $row['social_url']; ?>"><i
-                                    class="<?php echo $row['social_icon']; ?>"></i></a></li>
-                    <?php endif; ?>
+                <?php if ($row['social_url'] != ''): ?>
+                <li><a href="<?php echo $row['social_url']; ?>"><i class="<?php echo $row['social_icon']; ?>"></i></a>
+                </li>
+                <?php endif; ?>
                 <?php
                 }
                 ?>
@@ -51,6 +52,7 @@ foreach ($result as $row) {
     <a href="#" class="scrollup">
         <i class="fa fa-angle-up"></i>
     </a>
+    <?php echo $before_body; ?>
 
     <script src="assets/js/jquery-2.2.4.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
