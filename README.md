@@ -40,7 +40,7 @@ https://github.com/PHPMailer/PHPMailer
 - Mở XAMPP, bật 2 cổng Apache và MySQL
 - Vào link http://localhost/phpmyadmin/ tạo database tên "greeny" và import file greeny.sql trong folder database, sau đó nhấn nút "Nhập".
 
-## Bước 4:
+### Bước 4:
 Truy cập vào link http://localhost/Greeny và sử dụng website.
 
 ---
