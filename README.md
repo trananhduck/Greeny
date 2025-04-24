@@ -14,3 +14,41 @@
 - ...
 ## 🌟 Giao diện trang Homepage:
 ![Screenshot 2025-04-20 112147](https://github.com/user-attachments/assets/83dbed6d-c159-42c2-be08-3f4e1dc8a67d)
+
+---
+## 🚀 Hướng dẫn cài đặt dự án PHP từ GitHub
+
+### ⚙️ Yêu cầu hệ thống
+
+Trước khi bắt đầu, đảm bảo máy bạn đã cài:
+
+- [Git](https://git-scm.com/)
+- [PHP](https://www.php.net/) (phiên bản 7.4 trở lên khuyến khích)
+- [XAMPP](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.0.30/xampp-windows-x64-8.0.30-0-VS16-installer.exe/download)
+
+---
+
+### Bước 1: Clone source code
+
+```bash
+git clone https://github.com/trananhduck/Greeny.git
+cd Greeny
+
+### Bước 2: Cài đặt thư viện PHPMailer tại repo:
+https://github.com/PHPMailer/PHPMailer
+
+### Bước 3: 
+- Mở XAMPP, bật 2 cổng Apache và MySQL
+- Vào link http://localhost/phpmyadmin/ tạo database tên "greeny" và import file greeny.sql trong folder database, sau đó nhấn nút "Nhập"
+
+## Bước 4:
+Truy cập vào link http://localhost/Greeny và sử dụng website.
+
+---
+
+📬 **Liên hệ**
+
+Nếu bạn có bất kỳ câu hỏi hay góp ý nào, vui lòng liên hệ qua email:
+
+**📧 Email:** taduc0508@gmail.com
+ 
