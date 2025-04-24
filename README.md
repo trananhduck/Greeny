@@ -1,6 +1,6 @@
-﻿# ♻️ Greeny – Cửa hàng đồ tái chế
+﻿# ♻️ Greeny – Lối sống xanh
 
-**Greeny** là một nền tảng thương mại điện tử đơn giản, được xây dựng bằng PHP thuần, nhằm kết nối người tiêu dùng với các sản phẩm tái chế được làm ra bởi **người lao động khuyết tật**. Dự án này không chỉ mang tính bền vững mà còn nhân văn, giúp tạo thêm cơ hội việc làm cho những người yếu thế trong xã hội.
+**Greeny** là một nền tảng thương mại điện tử đơn giản, được xây dựng bằng PHP thuần, nhằm kết nối người tiêu dùng với các sản phẩm tái chế và sản phẩm thân thiện với môi trường được làm ra bởi **người lao động khuyết tật**. Dự án này không chỉ mang tính bền vững mà còn nhân văn, giúp tạo thêm cơ hội việc làm cho những người yếu thế trong xã hội.
 
 ---
 
