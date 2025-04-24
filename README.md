@@ -16,7 +16,7 @@
 ![Screenshot 2025-04-20 112147](https://github.com/user-attachments/assets/83dbed6d-c159-42c2-be08-3f4e1dc8a67d)
 
 ---
-## 🚀 Hướng dẫn cài đặt dự án PHP từ GitHub
+## 🚀 Hướng dẫn cài đặt website Greeny từ GitHub
 
 ### ⚙️ Yêu cầu hệ thống
 
