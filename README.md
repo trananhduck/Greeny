@@ -30,7 +30,6 @@ Trước khi bắt đầu, đảm bảo máy bạn đã cài:
 
 ### Bước 1: Clone source code
 
-```bash
 git clone https://github.com/trananhduck/Greeny.git
 cd Greeny
 
