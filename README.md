@@ -29,9 +29,9 @@ Trước khi bắt đầu, đảm bảo máy bạn đã cài:
 ---
 
 ### Bước 1: Clone source code
-
-git clone https://github.com/trananhduck/Greeny.git
-cd Greeny
+Mở gitbase trong xampp/htdocs và nhập 2 lệnh sau:
+- git clone https://github.com/trananhduck/Greeny.git
+- cd Greeny
 
 ### Bước 2: Cài đặt thư viện PHPMailer tại repo:
 https://github.com/PHPMailer/PHPMailer
